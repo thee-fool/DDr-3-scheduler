@@ -1,0 +1,10 @@
++incdir+../Verilog
+../Verilog/addr_decode.v
+../Verilog/bank_state.v
+../Verilog/timing_global.v
+../Verilog/refresh_engine.v
+../Verilog/txn_queue.v
+../Verilog/eligibility.v
+../Verilog/selector.v
+../Verilog/data_path.v
+../Verilog/top.v
